@@ -24,7 +24,7 @@ Muhamad Farhan - 4522210057
    a. Klik menu tiga titik pada habit, pilih "Hapus".<br>
    <img src="screenshots/hapus habit c.png" width=500><br>
    b. Dialog konfirmasi harus muncul. Coba batalkan.<br>
-   //<img src="screenshots/hapus habit b.png" width=500><br>
+   <img src="screenshots/hapus habit b.png" width=500><br>
    c. Coba hapus lagi dan konfirmasi. Verifikasi habit hilang dari list.<br>
    <img src="screenshots/hapus habit c.png" width=500><br>
 6. **Uji Progress Bar:** <br>
